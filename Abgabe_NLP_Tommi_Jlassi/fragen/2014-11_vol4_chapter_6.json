@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "frage": "How many batches per year should, as a minimum, be placed on the on-going stability programme after a product is marketed?",
+    "sprache": "en",
+    "quelle": "2014-11_vol4_chapter_6",
+    "gold": ["6.32"]
+  },
+  {
+    "id": 2,
+    "frage": "Welche Angaben müssen auf den Behältnissen selbst angesetzter Reagenzien und Maßlösungen im QC-Labor vermerkt sein?",
+    "sprache": "de",
+    "quelle": "2014-11_vol4_chapter_6",
+    "gold": ["6.21"]
+  },
+  {
+    "id": 3,
+    "frage": "What checks must the sending laboratory complete before it hands over an analytical method to another site?",
+    "sprache": "en",
+    "quelle": "2014-11_vol4_chapter_6",
+    "gold": ["6.37"]
+  },
+  {
+    "id": 4,
+    "frage": "Nach wessen Vorgaben sind mikrobiologische Nährmedien herzustellen, und was ist vor ihrem Einsatz nachzuweisen?",
+    "sprache": "de",
+    "quelle": "2014-11_vol4_chapter_6",
+    "gold": ["6.23"]
+  }
+]

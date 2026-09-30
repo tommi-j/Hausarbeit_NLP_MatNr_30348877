@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "frage": "How must a single delivery of a starting material that contains several different supplier batches be handled for sampling, testing and release?",
+    "sprache": "en",
+    "quelle": "chapter_5",
+    "gold": ["5.31"]
+  },
+  {
+    "id": 2,
+    "frage": "Welche Prüfung muss der Hersteller des Fertigarzneimittels an jeder Charge eines Ausgangsstoffs mindestens selbst durchführen, auch wenn er Analysenergebnisse des Lieferanten übernimmt?",
+    "sprache": "de",
+    "quelle": "chapter_5",
+    "gold": ["5.35"]
+  },
+  {
+    "id": 3,
+    "frage": "What minimum information should appear on the labels of starting material containers held in the warehouse, and when may it be omitted from the physical label?",
+    "sprache": "en",
+    "quelle": "chapter_5",
+    "gold": ["5.32"]
+  },
+  {
+    "id": 4,
+    "frage": "Unter welchen Voraussetzungen dürfen vom Markt zurückgegebene Arzneimittel wieder in Verkehr gebracht oder weiterverwendet werden, und welche Faktoren sind dabei zu bewerten?",
+    "sprache": "de",
+    "quelle": "chapter_5",
+    "gold": ["5.70"]
+  },
+  {
+    "id": 5,
+    "frage": "Why are reel-fed labels generally preferred over pre-cut labels on packaging lines?",
+    "sprache": "en",
+    "quelle": "chapter_5",
+    "gold": ["5.56"]
+  },
+  {
+    "id": 6,
+    "frage": "Wen muss ein Hersteller informieren, wenn Einschränkungen in der Produktion zu Lieferengpässen führen könnten, und zu welchem Zweck?",
+    "sprache": "de",
+    "quelle": "chapter_5",
+    "gold": ["5.71"]
+  }
+]

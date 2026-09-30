@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "frage": "Mit welchen Aufbereitungsverfahren darf Wasser für Injektionszwecke erzeugt werden, und wie sollte es gelagert und verteilt werden, um Keimwachstum zu verhindern?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["6.10"]
+  },
+  {
+    "id": 2,
+    "frage": "What filtration is required at the point of use for process gases in aseptic manufacturing, and when must the gas filter's integrity test be part of batch release?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["6.19"]
+  }
+]

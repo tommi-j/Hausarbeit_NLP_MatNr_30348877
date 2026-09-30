@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "frage": "Welche Behältnisse, die durch Verschmelzen verschlossen werden, müssen zu 100 % auf Dichtigkeit geprüft werden, und ist eine reine Sichtkontrolle dafür ausreichend?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.22"]
+  },
+  {
+    "id": 2,
+    "frage": "How often must staff who visually inspect filled parenteral containers by hand be requalified, and what worst-case factors should the qualification cover?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.31"]
+  },
+  {
+    "id": 3,
+    "frage": "In welchem Mindestturnus müssen Hitzesterilisationszyklen für die ungünstigsten Beladungsmuster revalidiert werden?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.39"]
+  },
+  {
+    "id": 4,
+    "frage": "How frequently should an autoclave be leak-tested when its cycle includes a vacuum phase?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.60"]
+  },
+  {
+    "id": 5,
+    "frage": "What endotoxin reduction must be shown when validating a thermal depyrogenation process for components, and is a separate sterilisation proof then needed?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.68"]
+  },
+  {
+    "id": 6,
+    "frage": "Unter welcher Voraussetzung darf mit Ethylenoxid sterilisiert werden, und was muss die Prozessvalidierung bezüglich Produkt und Restgas belegen?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.73"]
+  },
+  {
+    "id": 7,
+    "frage": "When must the integrity of a sterilising-grade liquid filter be tested, and what is acceptable if testing after filter sterilisation but before use is not feasible?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.87"]
+  },
+  {
+    "id": 8,
+    "frage": "Muss bei einer redundanten Sterilfiltration auch der Backup-Filter nach Gebrauch auf Integrität getestet werden, und was ist zu tun, wenn der Hauptfilter den Test nicht besteht?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.92"]
+  },
+  {
+    "id": 9,
+    "frage": "What is the default limit on how long or for how many batches a liquid sterilising filter may be used?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.94"]
+  },
+  {
+    "id": 10,
+    "frage": "Wie oft muss ein Gefriertrockner sterilisiert werden, der ohne Barrieretechnik von Hand be- und entladen wird?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.123"]
+  },
+  {
+    "id": 11,
+    "frage": "In what minimum room classification may Blow-Fill-Seal equipment for aseptic filling be installed, and what gowning do operators then need?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.106"]
+  },
+  {
+    "id": 12,
+    "frage": "Welche Umgebungsbedingungen gelten, wenn aseptisch abgefüllte Vials außerhalb des aseptischen Bereichs als sauberer Prozess verbördelt werden?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["8.27"]
+  }
+]

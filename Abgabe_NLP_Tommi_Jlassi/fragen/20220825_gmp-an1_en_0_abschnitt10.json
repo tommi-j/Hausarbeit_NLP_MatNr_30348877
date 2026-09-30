@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "frage": "Aus welchen Teilen einer Charge sollten die Proben für die Sterilitätsprüfung entnommen werden, wenn das Produkt aseptisch abgefüllt bzw. im Endbehältnis hitzesterilisiert wurde?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["10.6"]
+  }
+]

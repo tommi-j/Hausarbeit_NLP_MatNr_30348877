@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "frage": "When a sterility test fails or an environmental monitoring limit is exceeded, what must the investigation establish before the batch can be certified, and how should its scope be handled?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["3.2"]
+  }
+]

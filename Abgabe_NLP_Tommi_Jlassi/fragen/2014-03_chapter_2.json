@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "frage": "Welche Beschäftigten sollten aus gesundheitlichen Gründen nach Möglichkeit nicht in der Arzneimittelherstellung eingesetzt werden?",
+    "sprache": "de",
+    "quelle": "2014-03_chapter_2",
+    "gold": ["2.17"]
+  },
+  {
+    "id": 2,
+    "frage": "Which reporting lines and positions must a manufacturer's organisational chart make visible within the management structure?",
+    "sprache": "en",
+    "quelle": "2014-03_chapter_2",
+    "gold": ["2.2"]
+  }
+]

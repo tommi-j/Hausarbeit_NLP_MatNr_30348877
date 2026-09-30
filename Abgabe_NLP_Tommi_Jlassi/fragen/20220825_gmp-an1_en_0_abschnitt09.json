@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "frage": "Wie häufig muss eine Media-Fill-Simulation im Routinebetrieb je aseptischem Prozess, Abfülllinie und Schicht wiederholt werden, und wie oft muss jeder Operator daran teilnehmen?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["9.38"]
+  },
+  {
+    "id": 2,
+    "frage": "How many containers should typically be filled in a media fill, and what applies when the commercial batch is very small?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["9.40"]
+  },
+  {
+    "id": 3,
+    "frage": "Welcher Mindestprobenvolumenstrom ist für die kontinuierliche Partikelüberwachung in Reinraumklasse A gefordert, und welche Partikelgrößen sind zu erfassen?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["9.17"]
+  },
+  {
+    "id": 4,
+    "frage": "If a single contaminated unit is found in a media fill, how many repeat runs are normally required and how must batches produced on that line afterwards be handled?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["9.46"]
+  }
+]

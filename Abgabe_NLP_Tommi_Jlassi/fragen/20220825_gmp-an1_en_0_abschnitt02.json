@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "frage": "In welcher Reihenfolge sollen bei der Herstellung steriler Produkte Anlagen- und Prozessauslegung, Verfahrensanweisungen und Überwachungssysteme im Qualitätsrisikomanagement priorisiert werden?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["2.2"]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "frage": "Wie lange müssen Chargendokumente für zugelassene Arzneimittel bzw. für Prüfpräparate mindestens aufbewahrt werden?",
+    "sprache": "de",
+    "quelle": "chapter4_01-2011_en",
+    "gold": ["4.11"]
+  },
+  {
+    "id": 2,
+    "frage": "How should a correction to a data entry on a GMP record be made so that it remains compliant?",
+    "sprache": "en",
+    "quelle": "chapter4_01-2011_en",
+    "gold": ["4.9"]
+  },
+  {
+    "id": 3,
+    "frage": "Für welche Anlagen und Bereiche sind Logbücher zu führen, und welche Tätigkeiten müssen darin festgehalten werden?",
+    "sprache": "de",
+    "quelle": "chapter4_01-2011_en",
+    "gold": ["4.31"]
+  }
+]

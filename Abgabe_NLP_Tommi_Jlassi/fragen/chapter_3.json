@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "frage": "Unter welchen Umständen sind für die Herstellung eines Arzneimittels zwingend eigene, ausschließlich dafür genutzte Räumlichkeiten erforderlich?",
+    "sprache": "de",
+    "quelle": "chapter_3",
+    "gold": ["3.6"]
+  },
+  {
+    "id": 2,
+    "frage": "If quarantined goods are kept in a physically separate warehouse zone, what requirements apply to that zone, and what if an electronic system is used instead?",
+    "sprache": "en",
+    "quelle": "chapter_3",
+    "gold": ["3.21"]
+  },
+  {
+    "id": 3,
+    "frage": "Wie müssen fest installierte Rohrleitungen in der Produktion gekennzeichnet sein?",
+    "sprache": "de",
+    "quelle": "chapter_3",
+    "gold": ["3.42"]
+  },
+  {
+    "id": 4,
+    "frage": "Which types of QC laboratories need to be kept apart not only from manufacturing but also from one another?",
+    "sprache": "en",
+    "quelle": "chapter_3",
+    "gold": ["3.26"]
+  }
+]

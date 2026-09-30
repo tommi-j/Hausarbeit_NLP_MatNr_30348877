@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "frage": "What is expected when an investigation attributes a quality defect to a mistake made by an operator?",
+    "sprache": "en",
+    "quelle": "2014-08_gmp_chap8",
+    "gold": ["8.17"]
+  },
+  {
+    "id": 2,
+    "frage": "Wie sind zurückgerufene Chargen bis zur Entscheidung über ihren Verbleib zu behandeln, und was gilt, wenn sie aufgearbeitet werden sollen?",
+    "sprache": "de",
+    "quelle": "2014-08_gmp_chap8",
+    "gold": ["8.28"]
+  },
+  {
+    "id": 3,
+    "frage": "Wie soll ein Hersteller regelmäßig überprüfen, ob seine Rückrufvorkehrungen auch außerhalb der regulären Arbeitszeiten funktionieren?",
+    "sprache": "de",
+    "quelle": "2014-08_gmp_chap8",
+    "gold": ["8.30"]
+  }
+]

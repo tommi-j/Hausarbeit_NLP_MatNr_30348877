@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "frage": "In welchem Turnus ist die Produktqualitätsüberprüfung (PQR) für zugelassene Arzneimittel normalerweise durchzuführen, und welche Aspekte der Lieferkette von Wirkstoffen sind dabei zu bewerten?",
+    "sprache": "de",
+    "quelle": "vol4-chap1_2013-01_en",
+    "gold": ["1.10"]
+  },
+  {
+    "id": 2,
+    "frage": "When the marketing authorisation holder and the manufacturer are different companies, how should their respective duties for the product quality review be defined, and may reviews be grouped across products?",
+    "sprache": "en",
+    "quelle": "vol4-chap1_2013-01_en",
+    "gold": ["1.11"]
+  }
+]

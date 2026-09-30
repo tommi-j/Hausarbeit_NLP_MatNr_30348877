@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "frage": "Wer sollte Selbstinspektionen in einem Pharmaunternehmen durchführen, und können dafür auch externe Fachleute hinzugezogen werden?",
+    "sprache": "de",
+    "quelle": "cap9_en",
+    "gold": ["9.2"]
+  },
+  {
+    "id": 2,
+    "frage": "What content must a self-inspection report include, and what follow-up information needs to be documented afterwards?",
+    "sprache": "en",
+    "quelle": "cap9_en",
+    "gold": ["9.3"]
+  }
+]

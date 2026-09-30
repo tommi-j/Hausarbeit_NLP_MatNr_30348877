@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "frage": "Darf ein Auftragnehmer im GMP-Umfeld übertragene Arbeiten an einen Unterauftragnehmer weitergeben, und welche Bedingungen gelten dafür?",
+    "sprache": "de",
+    "quelle": "vol4-chap7_2012-06_en",
+    "gold": ["7.11"]
+  },
+  {
+    "id": 2,
+    "frage": "What must a pharmaceutical company verify about a service provider before handing over GMP-relevant work to it?",
+    "sprache": "en",
+    "quelle": "vol4-chap7_2012-06_en",
+    "gold": ["7.5"]
+  }
+]

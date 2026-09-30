@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "frage": "Wie oft muss die aseptische Einkleidung von Personal für die Reinraumklassen A und B mindestens neu bewertet werden, und welche Körperstellen werden dabei mikrobiologisch geprüft?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["7.4"]
+  },
+  {
+    "id": 2,
+    "frage": "On what grounds can an operator lose permission to work in cleanrooms, and what is needed before they may resume aseptic work?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["7.6"]
+  }
+]

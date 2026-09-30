@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "frage": "Under what condition may a conveyor run from a grade A or B zone through the wall into a processing room of lower cleanliness?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["5.8"]
+  }
+]

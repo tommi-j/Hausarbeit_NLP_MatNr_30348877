@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "frage": "In welchen maximalen Zeitabständen müssen Reinräume der Klassen A/B bzw. C/D requalifiziert werden?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["4.32"]
+  },
+  {
+    "id": 2,
+    "frage": "How often should the gloves of an isolator be leak-tested, and what visual checks are expected in between?",
+    "sprache": "en",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["4.21"]
+  },
+  {
+    "id": 3,
+    "frage": "Welche technische Absicherung gegen gleichzeitiges Öffnen beider Türen ist bei Schleusen je nach Reinraumklasse des Zielbereichs gefordert?",
+    "sprache": "de",
+    "quelle": "20220825_gmp-an1_en_0",
+    "gold": ["4.13"]
+  }
+]
